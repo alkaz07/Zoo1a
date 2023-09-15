@@ -13,6 +13,7 @@ public class Camel extends Mammal implements Stepper, Swimmer {
         ;
         ;
         ;
+        ;
     }
 
     @Override
