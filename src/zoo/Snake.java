@@ -1,6 +1,6 @@
 package zoo;
 
-public class Snake extends Reptile implements Swimmer {
+public class Snake extends Reptile implements Swimmer, Bite {
 
     @Override
     public void move() {
@@ -14,6 +14,11 @@ public class Snake extends Reptile implements Swimmer {
 
     @Override
     public void swim() {
+
+    }
+
+    @Override
+    public void bites() {
 
     }
 }
