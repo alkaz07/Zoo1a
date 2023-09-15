@@ -1,4 +1,4 @@
-package fishes;
+package zoo.fishes;
 
 import zoo.Animal;
 import zoo.Bite;

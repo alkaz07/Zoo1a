@@ -1,7 +1,6 @@
-package arthropods;
+package zoo.arthropods;
 
 import zoo.Arthropods;
-import zoo.Bite;
 import zoo.Crawler;
 import zoo.Stepper;
 
