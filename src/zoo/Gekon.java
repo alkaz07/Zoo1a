@@ -18,6 +18,6 @@ public class Gekon extends Reptile implements Crawler,Stepper {
 
     @Override
     public void run() {
-        System.out.println( "Gekon run ");
+        System.out.println( "Gekon run");
     }
 }

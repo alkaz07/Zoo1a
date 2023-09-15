@@ -21,6 +21,6 @@ public class leopard extends Mammal implements Stepper, ClimbingTrees {
 
     @Override
     public void climb() {
-        System.out.println( "Leopard climbing on tree ");
+        System.out.println( "Leopard climbing on tree");
     }
 }
