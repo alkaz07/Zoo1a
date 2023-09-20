@@ -3,7 +3,6 @@ package zoo;
 import zoo.mammal.Bat;
 import zoo.mammal.Elephant;
 
-
 public class Main {
     public static void main(String[] args) {
         exemple1();
